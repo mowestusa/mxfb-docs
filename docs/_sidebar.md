@@ -1,4 +1,7 @@
 <!-- docs/_sidebar.md -->
 
-* [Home](/)
-* [FAQ](faq.md "A Guide to MX Fluxbox")
+- [Home](/)
+
+- Getting Started
+
+	- [Basics](basics.md)
